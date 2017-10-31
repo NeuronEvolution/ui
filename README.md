@@ -12,6 +12,7 @@
     - npm i --save @types/prop-types 类型检测
     - npm i --save @types/redux-logger 日志
     - npm i --save material-ui@next UI组件库
+    - npm i --save react-bootstrap bootstrap
     - npm i --save @types/isomorphic-fetch swagger依赖
     - npm i --save @types/core-js swagger依赖
 #React Native
