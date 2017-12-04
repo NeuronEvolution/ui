@@ -6,7 +6,7 @@
 #react
     - create-react-app my-app --scripts-version=react-scripts-ts 创建项目
  
-    - npm i --save redux react-redux react-router-dom redux-thunk redux-logger material-ui@next @types/isomorphic-fetch @types/core-js material-ui-icons
+    - npm i --save redux react-redux react-router-dom redux-thunk redux-logger material-ui@next @types/isomorphic-fetch @types/core-js material-ui-icons tslint typescript
     
     - npm i --save redux 数据
     - npm i --save react-redux redux和react绑定
@@ -17,4 +17,6 @@
     - npm i --save material-ui-icons UI icons
     - npm i --save @types/isomorphic-fetch swagger依赖
     - npm i --save @types/core-js swagger依赖
+    - npm i --save tslint typescript 
+
 #React Native
