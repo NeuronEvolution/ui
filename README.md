@@ -1,8 +1,13 @@
+#todo
+    - swagger client generator
+    - npm common package
+
 #global
     - install node
     - npm i -g npm
     - npm config set registry https://registry.npm.taobao.org 淘宝镜像
     - npm i -g create-react-app 
+    
 #react
     - create-react-app my-app --scripts-version=react-scripts-ts 创建项目
  
