@@ -1,6 +1,7 @@
 #todo
     - swagger client generator
     - npm common package
+    - client swagger postprocess
 
 #global
     - install node
