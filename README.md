@@ -21,8 +21,8 @@
     - npm i --save redux-logger 日志
     - npm i --save material-ui@next UI组件库
     - npm i --save material-ui-icons UI icons
-    - npm i --save @types/isomorphic-fetch swagger依赖
-    - npm i --save @types/core-js swagger依赖
     - npm i --save tslint typescript 
-
 #React Native
+    - facebook react native
+    - jest typescript ntsc tslint
+    - https://github.com/dalcib/expo-ts-example
