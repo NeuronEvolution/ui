@@ -26,3 +26,7 @@
     - facebook react native
     - jest typescript ntsc tslint
     - https://github.com/dalcib/expo-ts-example
+    - npm i --save react react-native @types/react @types/react-native 
+    - npm i --save react-navigation @types/react-navigation
+    - npm i --save redux react-redux redux-thunk redux-logger 
+    - npm i --save @types/redux @types/react-redux @types/redux-thunk @types/redux-logger
