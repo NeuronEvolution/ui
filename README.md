@@ -25,3 +25,5 @@
     - npm i --save react-navigation @types/react-navigation
     - npm i --save redux react-redux redux-thunk redux-logger 
     - npm i --save @types/redux @types/react-redux @types/redux-thunk @types/redux-logger
+    
+    - react-native bundle --platform android --dev true --entry-file index.js   --bundle-output android/app/src/main/assets/index.android.bundle   --assets-dest android/app/src/main/res/
