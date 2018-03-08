@@ -9,7 +9,6 @@
     "jsx": "react",
     "moduleResolution": "node",
     "rootDir": "src",
-    "rootDirs":["../../NeuronFramework/ui/web/src"],
     "forceConsistentCasingInFileNames": true,
     "noImplicitReturns": true,
     "noImplicitThis": true,
